@@ -166,7 +166,7 @@
 % \newfontfamily\FA[Path=\@fontdir]{FontAwesome}
 % Set font for header (default is Roboto)
 \newfontfamily\headerfont[
-  Path=\@fontdir,
+  Path=\@Roboto,
   UprightFont=*-Regular,
   ItalicFont=*-Italic,
   BoldFont=*-Bold,
@@ -174,7 +174,7 @@
 ]{Roboto}
 
 \newfontfamily\headerfontlight[
-  Path=\@fontdir,
+  Path=\@Roboto,
   UprightFont=*-Thin,
   ItalicFont=*-ThinItalic,
   BoldFont=*-Medium,
